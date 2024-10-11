@@ -1,0 +1,24 @@
+.boton {
+    cursor: pointer;
+}
+
+body {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: content-box;
+    background-image: url(/generalCode/img/fondo2.jpg) ;
+    background-size: cover ;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    transition: all 3s;
+    animation: moverFondo 30s ease-in-out infinite;
+}
+
+
+.nombre{
+    color: aliceblue;
+    text-align: center;
+    justify-content: center;
+    margin: 0 auto;
+    align-items: center;
+}
